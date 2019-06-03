@@ -25,5 +25,6 @@
             </select>
         </div>
     </div>
+    <?php include "button.php"; ?> 
 </div>
 <?php include "includes/footer.php"; ?>
